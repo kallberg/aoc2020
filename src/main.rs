@@ -1,5 +1,5 @@
 mod one;
 
 fn main() {
-  one::day_one();
+    one::day_one();
 }
